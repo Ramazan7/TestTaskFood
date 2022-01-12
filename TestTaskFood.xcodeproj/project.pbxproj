@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8402FC16278DBAFE004383F2 /* PizzaCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8402FC15278DBAFE004383F2 /* PizzaCell.swift */; };
 		845396C1278AF0C6005FE239 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845396C0278AF0C6005FE239 /* AppDelegate.swift */; };
 		845396C3278AF0C6005FE239 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845396C2278AF0C6005FE239 /* SceneDelegate.swift */; };
 		845396C5278AF0C6005FE239 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845396C4278AF0C6005FE239 /* ViewController.swift */; };
@@ -18,7 +17,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		8402FC15278DBAFE004383F2 /* PizzaCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PizzaCell.swift; sourceTree = "<group>"; };
 		845396BD278AF0C6005FE239 /* TestTaskFood.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestTaskFood.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		845396C0278AF0C6005FE239 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		845396C2278AF0C6005FE239 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -64,7 +62,6 @@
 				845396C2278AF0C6005FE239 /* SceneDelegate.swift */,
 				845396C4278AF0C6005FE239 /* ViewController.swift */,
 				847D1CFB278B5AA800B18559 /* MenuVC.swift */,
-				8402FC15278DBAFE004383F2 /* PizzaCell.swift */,
 				845396C6278AF0C6005FE239 /* Main.storyboard */,
 				845396C9278AF0C9005FE239 /* Assets.xcassets */,
 				845396CB278AF0C9005FE239 /* LaunchScreen.storyboard */,
@@ -144,7 +141,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8402FC16278DBAFE004383F2 /* PizzaCell.swift in Sources */,
 				845396C5278AF0C6005FE239 /* ViewController.swift in Sources */,
 				847D1CFC278B5AA800B18559 /* MenuVC.swift in Sources */,
 				845396C1278AF0C6005FE239 /* AppDelegate.swift in Sources */,
